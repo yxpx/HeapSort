@@ -39,7 +39,7 @@ This application provides a visual representation of the heap sort algorithm in 
 
 ```bash
 # Clone the repository
-git clone [your-repository-url]
+git clone https://github.com/yxpx/HeapSort.git
 cd HeapSort
 
 # Install dependencies
